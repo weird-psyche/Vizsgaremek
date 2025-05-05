@@ -248,18 +248,18 @@ CREATE TABLE `vasarlok` (
 INSERT INTO `vasarlok` (`vasarloId`, `vasarloNev`, `vasarloMail`, `vasarloJelszo`, `vasarloCim`) VALUES
 (1, 'Fejes Mate', 'fejes@gmail.com', 'crazyjelszo', 'Budapest, Forreal ut, 7'),
 (2, 'Jakab Pál', 'jakab.pal@gmail.com', '12345', '8100.Várpalota Bakonyi u. 12'),
-(4, 'rakos david', 'szex@gmail.com', '123', 'wallstreet 3'),
-(5, 'asd asd1', 'gtx1660@gmail.com', '1234', 'heble 3'),
-(6, 'Bódis Patrik', 'patrikbodis523@gmail.com', 'Matekavezo', 'Varpalota fehérvári ut 8 2/10'),
-(7, 'Владимир  Путин', 'szerivan@gmail.com', 'Szerivan', 'Budapest '),
-(8, 'Merse Gabor', 'gabormerse@gmail.com', 'hablaty', 'Csokonai utca 39'),
-(9, 'Vizi Áron', 'sziamate@gmail.com', 'quccan-9dusqu-qYqqag', 'Nunu'),
-(10, 'Igen Nem', 'tung', 'tung', 'Tungtungsahur'),
-(12, 'Kecske Met', 'kecskes@gmail.com', 'halao', 'Budapest, Nagyon Vadon, 89'),
-(13, 'Enyem Én vagyok', 'ezazenemailem@gmail.com', 'EzEgyBiztonsagosJelszoAmitMégÉnIsElFogokFelejteni123', 'Kell ez?'),
-(14, 'Test Suli', 'sulis@gmail.com', 'asd', 'Nem'),
-(15, 'Bmo Bmo', 'bmo@gmail.com', 'asd', 'Rohadt, dog 11'),
-(16, 'Bíró Patrik Tivadar', 'asd@gmail.com', '2003_2025', 'Nyíregyháza');
+(3, 'rakos david', 'szex@gmail.com', '123', 'wallstreet 3'),
+(4, 'asd asd1', 'gtx1660@gmail.com', '1234', 'heble 3'),
+(5, 'Bódis Patrik', 'patrikbodis523@gmail.com', 'Matekavezo', 'Varpalota fehérvári ut 8 2/10'),
+(6, 'Владимир  Путин', 'szerivan@gmail.com', 'Szerivan', 'Budapest '),
+(7, 'Merse Gabor', 'gabormerse@gmail.com', 'hablaty', 'Csokonai utca 39'),
+(8, 'Vizi Áron', 'sziamate@gmail.com', 'quccan-9dusqu-qYqqag', 'Nunu'),
+(9, 'Igen Nem', 'tung', 'tung', 'Tungtungsahur'),
+(10, 'Kecske Met', 'kecskes@gmail.com', 'halao', 'Budapest, Nagyon Vadon, 89'),
+(11, 'Enyem Én vagyok', 'ezazenemailem@gmail.com', 'EzEgyBiztonsagosJelszoAmitMégÉnIsElFogokFelejteni123', 'Kell ez?'),
+(12, 'Test Suli', 'sulis@gmail.com', 'asd', 'Nem'),
+(13, 'Bmo Bmo', 'bmo@gmail.com', 'asd', 'Rohadt, dog 11'),
+(14, 'Bíró Patrik Tivadar', 'asd@gmail.com', '2003_2025', 'Nyíregyháza');
 
 -- --------------------------------------------------------
 
