@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/logreg_style.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <title>Regisztráció</title>
+</head>
+<body>
+    <div class="login box" id="LoginDiv">
+      <div class="login-header">
+          <header>Regisztráció</header>
+      </div>
+      <form id="LoginForm">
+      <div class="input-box">
+          <input type="text" class="input-field" id="VezNev" name="VezNev" placeholder="Vezetéknév" autocomplete="off" required>
+      </div>
+      <div class="input-box">
+          <input type="text" class="input-field" id="KerNev" name="KerNev" placeholder="Keresztnév" autocomplete="off" required>
+      </div>
+      <div class="input-box">
+          <input type="email" class="input-field" id="Email" name="Email" placeholder="Email" autocomplete="off" required>
+      </div>
+      <div class="input-box">
+          <input type="password" class="input-field" id="Password" name="Password" placeholder="Jelszó" autocomplete="off" required>
+      </div>
+      <div class="input-box">
+        <input type="password" class="input-field" id="Password2" name="Password2" placeholder="Jelszó újra" autocomplete="off" required>
+    </div>
+      <span id="BadPwd"></span>
+      <div class="input-box">
+        <input type="text" class="input-field" id="Location" name="Location" placeholder="Lakcím" autocomplete="off" required>
+      </div>
+    </form>
+      <div class="input-submit">
+          <button class="submit-btn" id ="submit" onclick="AccountCreate();"></button></a></button>
+          <label for="submit">Regisztráció</a></label>
+      </div>
+      <div class="sign-up-link">
+        <p>Van már fiókod? <a href="login.html">Bejelentkezés</p>
+    </div>
+    </div>
+
+    <script src="js/register.js"></script>
+
+</body>
+</html>

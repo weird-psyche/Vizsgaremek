@@ -1,0 +1,6 @@
+@cafeum_HostAddress = http://localhost:5034
+
+GET {{cafeum_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

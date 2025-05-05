@@ -1,0 +1,11 @@
+version: "3"
+
+agent:
+    authtoken: 2vzyV5jM6Tr9Hg9AiLZHrX6N8hj_6zAbN3fRa4y9CnJk2XF3u
+
+tunnels:
+    default:
+        proto: http
+        addr: 44314
+        host_header: "localhost:44314"
+        url: vulture-golden-willingly.ngrok-free.app

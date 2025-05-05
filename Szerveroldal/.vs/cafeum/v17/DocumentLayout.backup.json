@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\psyche\\Sync\\School\\cafeum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\psyche\\sync\\school\\cafeum\\migrations\\20250505023042_mennyisegtorles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:migrations\\20250505023042_mennyisegtorles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\psyche\\sync\\school\\cafeum\\controllers\\cafeumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:controllers\\cafeumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\psyche\\sync\\school\\cafeum\\modells\\rendelesekmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:modells\\rendelesekmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\psyche\\sync\\school\\cafeum\\modells\\vasarlokmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:modells\\vasarlokmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\psyche\\sync\\school\\cafeum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\psyche\\sync\\school\\cafeum\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\psyche\\sync\\school\\cafeum\\modells\\kontaktmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:modells\\kontaktmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\psyche\\sync\\school\\cafeum\\migrations\\20250502071313_may2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:migrations\\20250502071313_may2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250505023042_MennyisegTorles.cs",
+              "DocumentMoniker": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Migrations\\20250505023042_MennyisegTorles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250505023042_MennyisegTorles.cs",
+              "ToolTip": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Migrations\\20250505023042_MennyisegTorles.cs",
+              "RelativeToolTip": "Migrations\\20250505023042_MennyisegTorles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:30:42.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250502071313_May2.cs",
+              "DocumentMoniker": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Migrations\\20250502071313_May2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250502071313_May2.cs",
+              "ToolTip": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Migrations\\20250502071313_May2.cs",
+              "RelativeToolTip": "Migrations\\20250502071313_May2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:13:13.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\psyche\\Sync\\School\\cafeum\\AppContext.cs",
+              "RelativeDocumentMoniker": "AppContext.cs",
+              "ToolTip": "C:\\Users\\psyche\\Sync\\School\\cafeum\\AppContext.cs",
+              "RelativeToolTip": "AppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:19:05.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vasarlokmodell.cs",
+              "DocumentMoniker": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Modells\\Vasarlokmodell.cs",
+              "RelativeDocumentMoniker": "Modells\\Vasarlokmodell.cs",
+              "ToolTip": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Modells\\Vasarlokmodell.cs",
+              "RelativeToolTip": "Modells\\Vasarlokmodell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:12:44.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:59:59.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kontaktmodell.cs",
+              "DocumentMoniker": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Modells\\Kontaktmodell.cs",
+              "RelativeDocumentMoniker": "Modells\\Kontaktmodell.cs",
+              "ToolTip": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Modells\\Kontaktmodell.cs",
+              "RelativeToolTip": "Modells\\Kontaktmodell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:54:44.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CafeumController.cs",
+              "DocumentMoniker": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Controllers\\CafeumController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CafeumController.cs",
+              "ToolTip": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Controllers\\CafeumController.cs",
+              "RelativeToolTip": "Controllers\\CafeumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:33:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rendelesekmodell.cs",
+              "DocumentMoniker": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Modells\\Rendelesekmodell.cs",
+              "RelativeDocumentMoniker": "Modells\\Rendelesekmodell.cs",
+              "ToolTip": "C:\\Users\\psyche\\Sync\\School\\cafeum\\Modells\\Rendelesekmodell.cs",
+              "RelativeToolTip": "Modells\\Rendelesekmodell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:04:19.733Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 984,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

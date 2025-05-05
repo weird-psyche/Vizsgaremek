@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "cafeum.Controllers.CafeumController",
+    "Method": "GetKontakt",
+    "RelativePath": "api/cafeum/kontakt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cafeum.Controllers.CafeumController",
+    "Method": "PostKontakt",
+    "RelativePath": "api/cafeum/kontakt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ujadatok",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cafeum.Controllers.CafeumController",
+    "Method": "GetRendelesek",
+    "RelativePath": "api/cafeum/rendelesek",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cafeum.Controllers.CafeumController",
+    "Method": "Rendeles",
+    "RelativePath": "api/cafeum/rendelesek",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ujadatok",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cafeum.Controllers.CafeumController",
+    "Method": "GetTermekek",
+    "RelativePath": "api/cafeum/termek",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cafeum.Controllers.CafeumController",
+    "Method": "GetVasarlok",
+    "RelativePath": "api/cafeum/vasarlok",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "cafeum.Controllers.CafeumController",
+    "Method": "PostVasarlok",
+    "RelativePath": "api/cafeum/vasarlok",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ujadatok",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

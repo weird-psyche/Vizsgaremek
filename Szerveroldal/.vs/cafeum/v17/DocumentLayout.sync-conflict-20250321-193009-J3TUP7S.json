@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matef\\Sync\\School\\cafeum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\matef\\sync\\school\\cafeum\\controllers\\cafeumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:controllers\\cafeumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\matef\\sync\\school\\cafeum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\matef\\sync\\school\\cafeum\\modells\\cimzesmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:modells\\cimzesmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\matef\\sync\\school\\cafeum\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\matef\\sync\\school\\cafeum\\modells\\vasarlokmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:modells\\vasarlokmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\matef\\sync\\school\\cafeum\\modells\\rendelesekmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:modells\\rendelesekmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|c:\\users\\matef\\sync\\school\\cafeum\\migrations\\20250308065338_inithome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE015E8E-E07D-4269-B141-0ED45A80C7E4}|cafeum.csproj|solutionrelative:migrations\\20250308065338_inithome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250308065338_InitHome.cs",
+              "DocumentMoniker": "C:\\Users\\matef\\Sync\\School\\cafeum\\Migrations\\20250308065338_InitHome.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250308065338_InitHome.cs",
+              "ToolTip": "C:\\Users\\matef\\Sync\\School\\cafeum\\Migrations\\20250308065338_InitHome.cs",
+              "RelativeToolTip": "Migrations\\20250308065338_InitHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:53:38.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\matef\\Sync\\School\\cafeum\\AppContext.cs",
+              "RelativeDocumentMoniker": "AppContext.cs",
+              "ToolTip": "C:\\Users\\matef\\Sync\\School\\cafeum\\AppContext.cs",
+              "RelativeToolTip": "AppContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:19:05.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cimzesmodell.cs",
+              "DocumentMoniker": "C:\\Users\\matef\\Sync\\School\\cafeum\\Modells\\Cimzesmodell.cs",
+              "RelativeDocumentMoniker": "Modells\\Cimzesmodell.cs",
+              "ToolTip": "C:\\Users\\matef\\Sync\\School\\cafeum\\Modells\\Cimzesmodell.cs",
+              "RelativeToolTip": "Modells\\Cimzesmodell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:15:44.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vasarlokmodell.cs",
+              "DocumentMoniker": "C:\\Users\\matef\\Sync\\School\\cafeum\\Modells\\Vasarlokmodell.cs",
+              "RelativeDocumentMoniker": "Modells\\Vasarlokmodell.cs",
+              "ToolTip": "C:\\Users\\matef\\Sync\\School\\cafeum\\Modells\\Vasarlokmodell.cs",
+              "RelativeToolTip": "Modells\\Vasarlokmodell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:12:44.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matef\\Sync\\School\\cafeum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matef\\Sync\\School\\cafeum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:59:59.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CafeumController.cs",
+              "DocumentMoniker": "C:\\Users\\matef\\Sync\\School\\cafeum\\Controllers\\CafeumController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CafeumController.cs",
+              "ToolTip": "C:\\Users\\matef\\Sync\\School\\cafeum\\Controllers\\CafeumController.cs",
+              "RelativeToolTip": "Controllers\\CafeumController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:33:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rendelesekmodell.cs",
+              "DocumentMoniker": "C:\\Users\\matef\\Sync\\School\\cafeum\\Modells\\Rendelesekmodell.cs",
+              "RelativeDocumentMoniker": "Modells\\Rendelesekmodell.cs",
+              "ToolTip": "C:\\Users\\matef\\Sync\\School\\cafeum\\Modells\\Rendelesekmodell.cs",
+              "RelativeToolTip": "Modells\\Rendelesekmodell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:04:19.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
